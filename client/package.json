@@ -1,0 +1,9 @@
+{
+  "name": "bien-tool-client",
+  "version": "1.0.0",
+  "scripts": { "dev": "vite" },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
