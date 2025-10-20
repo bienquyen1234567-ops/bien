@@ -4,7 +4,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": { "start": "node index.js" },
-  "dependencies": {
+  "dependencies": {"openai": "^4.58.1"
     "express": "^4.18.2",
     "cors": "^2.8.5"
   }
